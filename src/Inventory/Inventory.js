@@ -4,6 +4,8 @@ const Inventory = () => {
     return (
         <div>
             <h1>this is inventory</h1>
+            <p>this is para</p>
+            <h2>this is h2</h2>
         </div>
     );
 };
